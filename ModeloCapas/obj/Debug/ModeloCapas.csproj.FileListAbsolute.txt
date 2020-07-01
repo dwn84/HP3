@@ -1,0 +1,11 @@
+C:\Users\samaniw\source\repos\ModeloCapas\bin\Debug\ModeloCapas.exe.config
+C:\Users\samaniw\source\repos\ModeloCapas\bin\Debug\ModeloCapas.exe
+C:\Users\samaniw\source\repos\ModeloCapas\bin\Debug\ModeloCapas.pdb
+C:\Users\samaniw\source\repos\ModeloCapas\bin\Debug\MaterialSkin.dll
+C:\Users\samaniw\source\repos\ModeloCapas\obj\Debug\ModeloCapas.csprojAssemblyReference.cache
+C:\Users\samaniw\source\repos\ModeloCapas\obj\Debug\ModeloCapas.Properties.Resources.resources
+C:\Users\samaniw\source\repos\ModeloCapas\obj\Debug\ModeloCapas.csproj.GenerateResource.cache
+C:\Users\samaniw\source\repos\ModeloCapas\obj\Debug\ModeloCapas.csproj.CopyComplete
+C:\Users\samaniw\source\repos\ModeloCapas\obj\Debug\ModeloCapas.exe
+C:\Users\samaniw\source\repos\ModeloCapas\obj\Debug\ModeloCapas.pdb
+C:\Users\samaniw\source\repos\ModeloCapas\obj\Debug\ModeloCapas.Form1.resources
