@@ -1,8 +1,11 @@
  <?php
+<<<<<<< HEAD
 
 require_once "models/crud.php";
 
 
+=======
+>>>>>>> f3e58a19e780f485fe8e9679694c58755cc22a13
  class mvcController{
 	
 	public function plantilla()
@@ -13,13 +16,18 @@ require_once "models/crud.php";
 	public function paginasControler()
 	{
 		if(!isset($_GET["action"]))
+<<<<<<< HEAD
 			$enlaces = "index";
+=======
+			$enlaces = "0";
+>>>>>>> f3e58a19e780f485fe8e9679694c58755cc22a13
 		else
 			$enlaces = $_GET["action"];
 
 		$respuesta = paginas::url($enlaces);
 		include $respuesta;
 	}
+<<<<<<< HEAD
 
 	public function registroUsuarioController(){
 		if(isset($_POST['txtUsuarioR'])){
@@ -81,6 +89,8 @@ require_once "models/crud.php";
 			";
 		}
 	}
+=======
+>>>>>>> f3e58a19e780f485fe8e9679694c58755cc22a13
  }
  ?>
  

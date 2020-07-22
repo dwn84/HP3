@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
   <a class="navbar-brand" href="#">PHPMVC</a>
@@ -25,5 +26,15 @@
   </div>
 </nav>
 
+=======
+		<nav>
+			<ul>
+				<li><a href="index.php?action=0">Inicio</a></li>
+				<li><a href="index.php?action=1">Nosotros</a></li>
+				<li><a href="index.php?action=2">Servicios</a></li>
+				<li><a href="index.php?action=3">Contactenos</a></li>
+			</ul>
+		</nav>
+>>>>>>> f3e58a19e780f485fe8e9679694c58755cc22a13
 		
 		
